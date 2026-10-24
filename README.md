@@ -27,6 +27,7 @@ Welcome to the definitive ecosystem directory for **Scripting IDEs and Developer
 - [🔍 Architectural Taxonomy & Execution Models](#-architectural-taxonomy--execution-models)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚖️ Disclaimer](#️-disclaimer)
 
 ---
@@ -183,6 +184,28 @@ We welcome community contributions, tool submissions, and updates!
 ## 📈 Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Scripting-IDE-Automation&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Scripting-IDE-Automation&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and supporting **Awesome Scripting IDE & Automation**! 🙌
+
+If you found this curated directory useful for discovering developer tools, evaluating AI coding agents, or building automated workflows, please consider supporting the project:
+
+- ⭐ **Star this repository** to help other developers discover it across GitHub.
+- 🍴 **Fork and contribute** new open-source or commercial automation tools.
+- 📢 **Share with your colleagues**, engineering teams, and developer communities.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing maintenance, research, and curation, your support is deeply appreciated! You can sponsor directly via the **[GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)**.
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
 ---
 
