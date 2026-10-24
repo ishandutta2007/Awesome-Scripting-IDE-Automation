@@ -58,81 +58,81 @@ The following SaaS and hosted solutions provide turn-key scripting, agentic code
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore the most powerful open-source coding agents, scripting IDEs, and local automation runtimes. Entries are sorted by **GitHub Star Count (Descending)**, and each badge links directly to the project's stargazers community.
+Explore the most powerful open-source coding agents, scripting IDEs, and local automation runtimes. Entries are sorted by **GitHub Stars_Count (Descending)**, and each badge links directly to the project's stargazers community.
 
-### 1. [OpenHands](https://github.com/OpenHands/OpenHands) [![GitHub stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=social&color=white)](https://github.com/OpenHands/OpenHands/stargazers)
+### 1. [OpenHands](https://github.com/OpenHands/OpenHands) [![GitHub_Stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=social&color=white)](https://github.com/OpenHands/OpenHands/stargazers)
 * **License**: MIT 📄
 * **Ecosystem**: Python / Docker / Web UI / Headless Runtime 🐳
 * **Core Capabilities**: The premier open-source autonomous software development agent (formerly OpenDevin). Capable of reading whole codebases, decomposing complex specifications, editing multi-file projects, executing terminal shell commands, and driving headless browsers inside sandboxed Docker containers.
 * **Best For**: Developers seeking an autonomous software engineer agent that runs in self-hosted environments without proprietary lock-in.
 
-### 2. [Cline](https://github.com/cline/cline) [![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)
+### 2. [Cline](https://github.com/cline/cline) [![GitHub_Stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)
 * **License**: Apache 2.0 📄
 * **Ecosystem**: TypeScript / VS Code Extension 💻
 * **Core Capabilities**: Battle-tested autonomous coding assistant operating directly within VS Code. Implements strict human-in-the-loop permission gating for file edits, shell commands, and browser automation via Anthropic Computer Use. Features complete Model Context Protocol (MCP) server support and flexible model choices (Anthropic, OpenAI, Gemini, Ollama).
 * **Best For**: Engineers wanting a permission-gated, highly transparent agent inside VS Code using custom API keys.
 
-### 3. [Open Interpreter](https://github.com/openinterpreter/openinterpreter) [![GitHub stars](https://img.shields.io/github/stars/openinterpreter/openinterpreter?style=social&color=white)](https://github.com/openinterpreter/openinterpreter/stargazers)
+### 3. [Open Interpreter](https://github.com/openinterpreter/openinterpreter) [![GitHub_Stars](https://img.shields.io/github/stars/openinterpreter/openinterpreter?style=social&color=white)](https://github.com/openinterpreter/openinterpreter/stargazers)
 * **License**: AGPL-3.0 📄
 * **Ecosystem**: Python / Terminal CLI / Desktop Shell 🖥️
 * **Core Capabilities**: Natural language interface to your local computer. Allows frontier models to draft and run Python, JavaScript, and Bash scripts directly within your native terminal environment to automate system tasks, manipulate spreadsheets, edit video/audio, and manage local files.
 * **Best For**: Automation engineers and power users wanting terminal-native script execution and desktop control via conversational prompts.
 
-### 4. [Aider](https://github.com/Aider-AI/aider) [![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers)
+### 4. [Aider](https://github.com/Aider-AI/aider) [![GitHub_Stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers)
 * **License**: Apache 2.0 📄
 * **Ecosystem**: Python / Terminal CLI / Git 🐙
 * **Core Capabilities**: High-performance AI pair programming tool in the terminal. Directly edits code across local Git repositories with repository map context, executes shell commands, runs test suites, and automatically crafts clean Git commits with detailed commit messages.
 * **Best For**: Developers who live in the terminal and want precise, multi-file code editing paired directly with Git workflows.
 
-### 5. [Continue](https://github.com/continuedev/continue) [![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)
+### 5. [Continue](https://github.com/continuedev/continue) [![GitHub_Stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)
 * **License**: Apache 2.0 📄
 * **Ecosystem**: TypeScript / Python / VS Code / JetBrains 🔌
 * **Core Capabilities**: Leading open-source modular AI code assistant supporting both VS Code and JetBrains IDE families. Offers inline code editing, custom slash commands, tab autocomplete, and context retrieval providers connecting commercial APIs or local LLMs (Ollama, vLLM, LM Studio).
 * **Best For**: Teams needing custom AI coding workflows and custom slash commands across mixed VS Code and IntelliJ environments.
 
-### 6. [Roo Code](https://github.com/RooCodeInc/Roo-Code) [![GitHub stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social&color=white)](https://github.com/RooCodeInc/Roo-Code/stargazers)
+### 6. [Roo Code](https://github.com/RooCodeInc/Roo-Code) [![GitHub_Stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social&color=white)](https://github.com/RooCodeInc/Roo-Code/stargazers)
 * **License**: Apache 2.0 📄
 * **Ecosystem**: TypeScript / VS Code Extension 🧩
 * **Core Capabilities**: Dynamic autonomous coding assistant for VS Code (evolved from Roo-Cline). Features specialized custom agent roles (Architect, Code, Ask, Debugger, Test), MCP server integrations, terminal command execution, and prompt enhancement.
 * **Best For**: Power users seeking fine-grained agent modes, multi-step planning, and rapid feature iteration.
 
-### 7. [Script Kit](https://github.com/johnlindquist/kit) [![GitHub stars](https://img.shields.io/github/stars/johnlindquist/kit?style=social&color=white)](https://github.com/johnlindquist/kit/stargazers)
+### 7. [Script Kit](https://github.com/johnlindquist/kit) [![GitHub_Stars](https://img.shields.io/github/stars/johnlindquist/kit?style=social&color=white)](https://github.com/johnlindquist/kit/stargazers)
 * **License**: MIT 📄
 * **Ecosystem**: TypeScript / Node.js / Electron / macOS & Windows 🍎
 * **Core Capabilities**: Script-driven developer launcher and automation toolkit. Enables instant creation and execution of small scripts with rich UI widgets (inputs, dropdowns, forms), global system hotkey triggers, and extensive API integrations.
 * **Best For**: Developers who want quick, personalized desktop micro-automations and custom UI prompts without building full apps.
 
-### 8. [OculiX / SikuliX](https://github.com/oculix-org/SikuliX1) [![GitHub stars](https://img.shields.io/github/stars/oculix-org/SikuliX1?style=social&color=white)](https://github.com/oculix-org/SikuliX1/stargazers)
+### 8. [OculiX / SikuliX](https://github.com/oculix-org/SikuliX1) [![GitHub_Stars](https://img.shields.io/github/stars/oculix-org/SikuliX1?style=social&color=white)](https://github.com/oculix-org/SikuliX1/stargazers)
 * **License**: MIT 📄
 * **Ecosystem**: Java / Jython / OpenCV / Tesseract OCR 👁️
 * **Core Capabilities**: Visual automation IDE and scripting engine that drives any user interface by visual appearance. Uses OpenCV pattern matching, OCR text recognition, and Jython/Python scripting to automate native desktop software, Citrix/RDP virtualized screens, and canvas elements.
 * **Best For**: Automating non-accessible desktop applications, legacy client-server software, and virtual desktop environments lacking programmatic APIs.
 
-### 9. [ECA (Editor Code Assistant)](https://github.com/editor-code-assistant/eca) [![GitHub stars](https://img.shields.io/github/stars/editor-code-assistant/eca?style=social&color=white)](https://github.com/editor-code-assistant/eca/stargazers)
+### 9. [ECA (Editor Code Assistant)](https://github.com/editor-code-assistant/eca) [![GitHub_Stars](https://img.shields.io/github/stars/editor-code-assistant/eca?style=social&color=white)](https://github.com/editor-code-assistant/eca/stargazers)
 * **License**: EPL-2.0 📄
 * **Ecosystem**: Clojure / Neovim / Emacs / VS Code / IntelliJ 📝
 * **Core Capabilities**: Editor-agnostic AI assistant powered by an LSP-inspired protocol. Delivers code completion, chat, and automated code rewrites across Vim/Neovim, Emacs, and modern IDEs with support for OpenAI, Anthropic, Copilot, and local Ollama models.
 * **Best For**: Developers using modal editors (Neovim/Emacs) who want AI scripting and assistant features without leaving their lightweight editor.
 
-### 10. [DevChat](https://github.com/devchat-ai/devchat) [![GitHub stars](https://img.shields.io/github/stars/devchat-ai/devchat?style=social&color=white)](https://github.com/devchat-ai/devchat/stargazers)
+### 10. [DevChat](https://github.com/devchat-ai/devchat) [![GitHub_Stars](https://img.shields.io/github/stars/devchat-ai/devchat?style=social&color=white)](https://github.com/devchat-ai/devchat/stargazers)
 * **License**: Apache 2.0 📄
 * **Ecosystem**: TypeScript / Python / VS Code / IntelliJ 💬
 * **Core Capabilities**: Open-source workflow engine for crafting AI-powered scripts and custom agent workflows directly inside IDE chat panels. Teams can define reusable prompt workflows for unit test generation, docstrings, code review checks, and Git commits.
 * **Best For**: Engineering teams wanting to standardize AI coding prompts and scripted workflows across their codebases.
 
-### 11. [PyBreeze](https://github.com/Integration-Automation/PyBreeze) [![GitHub stars](https://img.shields.io/github/stars/Integration-Automation/PyBreeze?style=social&color=white)](https://github.com/Integration-Automation/PyBreeze/stargazers)
+### 11. [PyBreeze](https://github.com/Integration-Automation/PyBreeze) [![GitHub_Stars](https://img.shields.io/github/stars/Integration-Automation/PyBreeze?style=social&color=white)](https://github.com/Integration-Automation/PyBreeze/stargazers)
 * **License**: Apache 2.0 📄
 * **Ecosystem**: Python / GUI IDE / Test Automation 🧪
 * **Core Capabilities**: Python automation IDE designed around isolated subprocess execution. Prevents script crashes or infinite loops from affecting the editor, while providing integrated modules for HTTP API testing, GUI automation (AutoControl), browser execution, and load generation.
 * **Best For**: Python test automation engineers looking for an all-in-one desktop IDE with safety-isolated script execution.
 
-### 12. [OpenAF](https://github.com/OpenAF/openaf) [![GitHub stars](https://img.shields.io/github/stars/OpenAF/openaf?style=social&color=white)](https://github.com/OpenAF/openaf/stargazers)
+### 12. [OpenAF](https://github.com/OpenAF/openaf) [![GitHub_Stars](https://img.shields.io/github/stars/OpenAF/openaf?style=social&color=white)](https://github.com/OpenAF/openaf/stargazers)
 * **License**: Apache 2.0 📄
 * **Ecosystem**: Java / JavaScript / DevOps ⚙️
 * **Core Capabilities**: Lightweight scripting runtime and DevOps automation platform. Features `oJob` for structured declarative job execution, `oafp` for rapid multi-format data transformation, and `mini-a` for autonomous agent automation with MCP server support.
 * **Best For**: DevOps practitioners needing a self-contained, lightweight runtime for scheduled jobs and system orchestration.
 
-### 13. [Ducky IDE](https://github.com/liad07/ducky-script-compiler) [![GitHub stars](https://img.shields.io/github/stars/liad07/ducky-script-compiler?style=social&color=white)](https://github.com/liad07/ducky-script-compiler/stargazers)
+### 13. [Ducky IDE](https://github.com/liad07/ducky-script-compiler) [![GitHub_Stars](https://img.shields.io/github/stars/liad07/ducky-script-compiler?style=social&color=white)](https://github.com/liad07/ducky-script-compiler/stargazers)
 * **License**: MIT 📄
 * **Ecosystem**: Python / Tkinter / BadUSB / Hardware Scripting 🦆
 * **Core Capabilities**: Specialized desktop IDE and compiler for Ducky Script automation payloads. Features syntax highlighting, real-time linting, live run controls, and integrated AI assistant capabilities for drafting payloads and keystroke injection scripts.
@@ -176,7 +176,7 @@ We welcome community contributions, tool submissions, and updates!
 
 1. 🍴 **Fork** the repository.
 2. 🌿 **Create a Branch**: `git checkout -b feature/add-new-scripting-tool`
-3. 📝 **Add Entry**: Follow the existing format (include SaaS pricing & free tier limits or open-source star badge linked to stargazers).
+3. 📝 **Add Entry**: Follow the existing format (include SaaS pricing & free tier limits or open-source Stars_Badge linked to stargazers).
 4. 📬 **Submit PR**: Open a Pull Request with a clear summary of what was added.
 
 ---
